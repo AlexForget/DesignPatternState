@@ -1,0 +1,13 @@
+C:\Users\alexa\Documents\ProjetC#\DesignPattern\DemoStatePatternPersonnage\bin\Debug\netcoreapp3.1\DemoStatePatternPersonnage.exe
+C:\Users\alexa\Documents\ProjetC#\DesignPattern\DemoStatePatternPersonnage\bin\Debug\netcoreapp3.1\DemoStatePatternPersonnage.deps.json
+C:\Users\alexa\Documents\ProjetC#\DesignPattern\DemoStatePatternPersonnage\bin\Debug\netcoreapp3.1\DemoStatePatternPersonnage.runtimeconfig.json
+C:\Users\alexa\Documents\ProjetC#\DesignPattern\DemoStatePatternPersonnage\bin\Debug\netcoreapp3.1\DemoStatePatternPersonnage.runtimeconfig.dev.json
+C:\Users\alexa\Documents\ProjetC#\DesignPattern\DemoStatePatternPersonnage\bin\Debug\netcoreapp3.1\DemoStatePatternPersonnage.dll
+C:\Users\alexa\Documents\ProjetC#\DesignPattern\DemoStatePatternPersonnage\bin\Debug\netcoreapp3.1\DemoStatePatternPersonnage.pdb
+C:\Users\alexa\Documents\ProjetC#\DesignPattern\DemoStatePatternPersonnage\obj\Debug\netcoreapp3.1\DemoStatePatternPersonnage.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\ProjetC#\DesignPattern\DemoStatePatternPersonnage\obj\Debug\netcoreapp3.1\DemoStatePatternPersonnage.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\ProjetC#\DesignPattern\DemoStatePatternPersonnage\obj\Debug\netcoreapp3.1\DemoStatePatternPersonnage.AssemblyInfo.cs
+C:\Users\alexa\Documents\ProjetC#\DesignPattern\DemoStatePatternPersonnage\obj\Debug\netcoreapp3.1\DemoStatePatternPersonnage.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\ProjetC#\DesignPattern\DemoStatePatternPersonnage\obj\Debug\netcoreapp3.1\DemoStatePatternPersonnage.dll
+C:\Users\alexa\Documents\ProjetC#\DesignPattern\DemoStatePatternPersonnage\obj\Debug\netcoreapp3.1\DemoStatePatternPersonnage.pdb
+C:\Users\alexa\Documents\ProjetC#\DesignPattern\DemoStatePatternPersonnage\obj\Debug\netcoreapp3.1\DemoStatePatternPersonnage.genruntimeconfig.cache
